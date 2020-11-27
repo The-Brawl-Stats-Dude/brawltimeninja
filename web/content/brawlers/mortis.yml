@@ -1,0 +1,8 @@
+name: Mortis
+gender: m
+description: Mortis is a mythic brawler who dashes at his enemies with his
+  shovel! His attack makes him dash in the direction he aims it in. His super
+  unleashes a cloud of bats that travel very fast and heal Mortis anytime they
+  hit somebody.
+main: Mortis's main attack makes him dash 2 and 2/3 tiles in any direction. It
+  deals $damage
